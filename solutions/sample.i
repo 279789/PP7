@@ -815,5 +815,5 @@ extern int __overflow (FILE *, int);
 # 3 "sample.c"
 int main(void) {
  printf("Hello, PP7!\n");
- retrun 0;
+ return 0;
  }
