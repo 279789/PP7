@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.19)  28 MAY 2025 16:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.19)  29 MAY 2025 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -65,28 +65,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/cm-super/cm-super-t1.enc}] [2] (./Tasks.aux)
+dvips/cm-super/cm-super-t1.enc}]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
+5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (15.76376pt too wide) in paragraph at lines 44--46
+\T1/cmr/m/n/10 file. In the ex-am-ple we did: [][]\T1/cmtt/m/n/10 grep -En prin
+tf\s*\(" solutions/debug_sample.c
+ []
+
+
+Overfull \hbox (81.64581pt too wide) in paragraph at lines 49--51
+\T1/cmr/m/n/10 ex-am-ple we did: [][]\T1/cmtt/m/n/10 sed -E -i.bak 's/printf\s*
+/debug_printf/g' solutions/debug_sample.c[]\T1/cmr/m/n/10 .
+ []
+
+[2] [3] (./Tasks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 759 strings out of 474222
- 12085 string characters out of 5748733
+ 781 strings out of 474222
+ 12737 string characters out of 5748733
  1930975 words of memory out of 5000000
- 23069 multiletter control sequences out of 15000+600000
- 565419 words of font info for 51 fonts, out of 8000000 for 9000
+ 23087 multiletter control sequences out of 15000+600000
+ 565732 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,50p,1032b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,6n,50p,1429b,197s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf/
 fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/c
 m-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on Tasks.pdf (2 pages, 80666 bytes).
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sftt1000.pfb>
+Output written on Tasks.pdf (3 pages, 108216 bytes).
 PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
