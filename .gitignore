@@ -1,0 +1,6 @@
+*.aux
+*.log
+*.tex
+*.o
+*add_example*Task1.pdf
+
