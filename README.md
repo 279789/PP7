@@ -1,4 +1,4 @@
-## PP7 Took me longer than 90 Minutes, cause I experimented allot with tex and also tried to improve my "English" on this. (Somehow it got a roman, but I left the second half of the tasks raw.) I think that putting my broken english into a fancy tex document took most of the time. (Hole Time spent: 3h, Doing the task and writing the answers: 1h, improving that/fitting it in tex/and making it readable: 2h. 
+## PP7 Took me longer than 90 Minutes, cause I experimented allot with tex and also tried to improve my "English" on this. (Somehow it got a roman, but I left the second half of the tasks raw.) I think that putting my broken english into a fancy tex document took most of the time. (Hole Time spent: 3h, Doing the task and writing the answers: 1h, improving that/fitting it in tex/and making it readable: 2h. The Tasks are all answered inside Tasks.pdf
 
 ## Goal
 
